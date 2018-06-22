@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fondito.jpg</file>
+        <file>nanoparti-culas_0.jpg</file>
+    </qresource>
+</RCC>
